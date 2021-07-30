@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ritesh KT
 - 👀 I’m interested in Software Devlopement Life Cycle
-- 🌱 I’m currently learning Java, Python and Devops
+- 🌱 I’m currently learning Devops AWS and Python
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ktritesh7@gmail.com
 
