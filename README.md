@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ritesh KT
-- 👀 I’m interested in Software Deployment Life Cycle
+- 👀 I’m interested in Software Development/Deployment Life Cycle
 - 🌱 I’m currently learning AWS•Devops
 - 💞️ I’m looking to collaborate on github
 - 📫 You can reach me at ktritesh7@gmail.com
