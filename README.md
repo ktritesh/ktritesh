@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Deployment Life Cycle
 - 🌱 I’m currently learning AWS•Devops
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me ktritesh7@gmail.com
+- 📫 You can reach me at ktritesh7@gmail.com
 
 <!---
 ktritesh/ktritesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
