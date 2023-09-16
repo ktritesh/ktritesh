@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Ritesh KT
-- 👀 I’m interested in Software Development/Deployment Life Cycle
-- 🌱 I’m currently learning AWS•Devops
+- 👋 Hi, I’m Ritesh Tiwari
+- 👀 Certified Google Cloud Associate Cloud Engineer & Hashicorp Certified Terraform Associate
+- 👀 I’m interested in DevOps Methodlogy
+- 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on github
 - 📫 You can reach me at ktritesh7@gmail.com
 
